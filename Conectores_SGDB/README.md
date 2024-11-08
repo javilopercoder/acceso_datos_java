@@ -17,3 +17,6 @@ CREATE TABLE usuarios (
     edad INT,
     correo VARCHAR(100) UNIQUE NOT NULL
 );
+
+# Resultado esperado:
+![CONECTORES_SGDB](./Resultado_Conectores_SGDB.png)
