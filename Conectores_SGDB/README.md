@@ -19,4 +19,4 @@ CREATE TABLE usuarios (
 );
 
 # Resultado esperado:
-![CONECTORES_SGDB](./Resultado_Conectores_SGDB.png)
+![CONECTORES_SGDB](Resultado_Conectores_SGDB.png)
